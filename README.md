@@ -1,4 +1,3 @@
-# cv
-Yafei Xu Homepage
+# Yafei Xu Homepage
 
 halo
