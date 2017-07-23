@@ -1,3 +1,3 @@
 # Yafei Xu Homepage
 
-halo
+# [yafeixu.github.io](yafeixu.github.io)
